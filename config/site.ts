@@ -85,16 +85,22 @@ export const NavData: NavData[] = [
         link: "https://grok.com/"
       },
       {
-        icon: "https://images.alans.site/file/1769403363678_icon-light-32x32.webp",
-        title: "v0 by Vercel",
-        desc: "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
-        link: "https://v0.app/"
+        icon: "https://images.alans.site/file/1791786384515_favicon.webp",
+        title: "Muse AI",
+        desc: "Muse — Your Personal AI Agent",
+        link: "https://muse.ai/"
       },
       {
         icon: "https://images.alans.site/file/1769403391660_favicon.svg",
         title: "DeepSeek - 探索未至之境",
         desc: "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
         link: "https://chat.deepseek.com/"
+      },
+      {
+        icon: "https://images.alans.site/file/1769403363678_icon-light-32x32.webp",
+        title: "v0 by Vercel",
+        desc: "Your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",
+        link: "https://v0.app/"
       },
       {
         icon: "https://images.alans.site/file/1769403514760_monica-im-logo.webp",
