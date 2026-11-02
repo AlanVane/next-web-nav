@@ -480,6 +480,12 @@ export const NavData: NavData[] = [
     title: "Design",
     items: [
       {
+        icon: "https://images.alanv.site/file/IxYVByzo.webp",
+        title: "Design inspiration, ready to build.",
+        desc: "Browse beautiful interfaces from real products and turn any design into a prompt for Claude Code, Codex or Cursor.",
+        link: "https://kage.design/"
+      },
+      {
         icon: "https://images.alanv.site/file/1790931264734_apple-touch-icon.webp",
         title: "The living library of interfaces",
         desc: "12,000+ crafted React components, templates, and shadcn themes. Built by real design engineers.",
