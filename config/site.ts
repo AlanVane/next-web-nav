@@ -578,6 +578,12 @@ export const NavData: NavData[] = [
         link: "https://free-for.dev/#/"
       },
       {
+        icon: "https://images.alanv.site/file/1769407000602_logo.webp",
+        title: "Free for Developers",
+        desc: "开发者与开源作者如今拥有众多提供免费层级的服务，但要全面了解这些选项需要耗费时间才能做出明智选择。",
+        link: "https://freedev.igiven.com/#/"
+      },
+      {
         icon: "https://images.alanv.site/file/1769405200808_github_logo_icon_188438.webp",
         title: "中国独立开发者项目列表",
         desc: "作为开发者其实比较好奇其他人在做什么业余项目，所以特意建了这个库聚合所有中国独立开发者的项目。",
